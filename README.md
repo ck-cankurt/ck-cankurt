@@ -10,47 +10,44 @@
 <a id="english"></a>
 <!-- Header with Gradient Background -->
 <div style="background: linear-gradient(135deg, #F73030, #FF8C00); color: #fff; padding: 40px 20px; text-align: center; border-radius: 12px; margin-bottom: 30px;">
-  <h1 style="font-size: 2.5em; margin: 0;">Hello, I'm Can Kurt</h1>
-  <p style="font-size: 1.2em; margin: 10px 0;">Project & Software Developer</p>
-  <p style="font-size: 1em;">
-    @ <a href="https://github.com/ubden" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubden®</a>
-    (Turkey: Ubden A.Ş, USA: Ubden LLC, Estonia: Ubden OU) | Organization: <a href="https://github.com/ubdencom" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubdencom</a>
-  </p>
+  <h1 style="font-size: 2.5em; margin: 0;">Can Kurt – Project & Software Developer</h1>
+  <p style="font-size: 1.2em; margin: 10px 0;">At <a href="https://github.com/ubden" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubden®</a>  
+  (Turkey: Ubden A.Ş, USA: Ubden LLC, Estonia: Ubden OU) | Organization: <a href="https://github.com/ubdencom" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubdencom</a></p>
 </div>
 
 <!-- Dynamic Typing Animation -->
 <div align="center" style="margin-bottom:30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=Innovative+Solutions;Creative+Coding;Modern+Design" alt="Dynamic Typing Animation" style="max-width:100%;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=Innovative+Solutions;Excellence+in+Software+Development;Cutting-edge+Design" alt="Dynamic Typing Animation" style="max-width:100%;"/>
 </div>
 
 <!-- Navigation Bar -->
 <div align="center" style="margin-bottom: 30px;">
-  <a href="#about-en" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">About Me</a>
+  <a href="#about-en" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">About</a>
   <a href="#tech-en" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Technologies</a>
   <a href="#projects-en" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Projects</a>
   <a href="#stats-en" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Stats</a>
   <a href="#contact-en" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Contact</a>
 </div>
 
-<!-- About Me Card -->
+<!-- About Section -->
 <a id="about-en"></a>
 <div style="background: #fff; border: 1px solid #eaeaea; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto 30px auto;">
-  <h2 style="color: #333;">About Me</h2>
+  <h2 style="color: #333;">About</h2>
   <blockquote style="border-left: 4px solid #F73030; margin: 10px 0; padding-left: 15px; color: #666; font-style: italic;">
-    "I shape the future through the intersection of technology and design."
+    "Driving innovation through the convergence of technology and design."
   </blockquote>
   <p style="color: #555; line-height: 1.6;">
-    I am a passionate developer working on innovative projects. My main portfolio is hosted at <a href="https://github.com/ubden" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubden®</a> and I actively contribute within the organization <a href="https://github.com/ubdencom" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubdencom</a>.
+    Can Kurt is a highly experienced Project & Software Developer recognized for delivering innovative technological solutions. His professional portfolio is showcased at <a href="https://github.com/ubden" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubden®</a> and he plays a significant role within the <a href="https://github.com/ubdencom" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubdencom</a> organization.
   </p>
   <details style="margin-top: 10px;">
-    <summary style="cursor: pointer; color: #F73030; font-weight: bold;">Read More</summary>
+    <summary style="cursor: pointer; color: #F73030; font-weight: bold;">Learn More</summary>
     <p style="color: #555; line-height: 1.6;">
-      My work is grounded in modern UI/UX principles, ensuring every project provides a seamless and engaging user experience. I believe in continuous learning and innovative problem solving.
+      His work is anchored in contemporary UI/UX standards, ensuring that each project provides a seamless and engaging user experience. Continuous innovation and adherence to high professional standards define his contributions.
     </p>
   </details>
 </div>
 
-<!-- Technologies -->
+<!-- Technologies Section -->
 <a id="tech-en"></a>
 <div style="max-width: 800px; margin: 0 auto 30px auto; text-align: center;">
   <h2 style="color: #333;">Technologies</h2>
@@ -60,23 +57,23 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <!-- Add more badges as needed -->
+    <!-- Additional badges may be added -->
   </div>
 </div>
 
-<!-- Projects -->
+<!-- Projects Section -->
 <a id="projects-en"></a>
 <div style="background: #fff; border: 1px solid #eaeaea; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto 30px auto;">
-  <h2 style="color: #333;">Projects</h2>
+  <h2 style="color: #333;">Projects & Contributions</h2>
   <p style="color: #555; line-height: 1.6;">
-    Check out some of my featured projects and contributions on GitHub. I continuously work on innovative solutions that blend technology and design.
+    Explore the notable projects and contributions that exemplify excellence in software development and innovative design.
   </p>
   <div style="text-align:center; margin-top:20px;">
-    <a href="https://github.com/ubden" style="background:#F73030; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">Visit My Portfolio</a>
+    <a href="https://github.com/ubden" style="background:#F73030; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">View Portfolio</a>
   </div>
 </div>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Section -->
 <a id="stats-en"></a>
 <div style="max-width: 800px; margin: 0 auto 30px auto; text-align: center;">
   <h2 style="color: #333;">GitHub Stats</h2>
@@ -94,7 +91,7 @@
   </div>
 </div>
 
-<!-- Contact & Social -->
+<!-- Contact & Social Section -->
 <a id="contact-en"></a>
 <div style="max-width: 800px; margin: 0 auto 30px auto; text-align: center;">
   <h2 style="color: #333;">Contact & Social</h2>
@@ -123,53 +120,50 @@
   </div>
 </div>
 
-
-
-
-
 <!-- =================== TURKISH SECTION =================== -->
 <a id="turkish"></a>
+<!-- Header with Gradient Background -->
 <div style="background: linear-gradient(135deg, #F73030, #FF8C00); color: #fff; padding: 40px 20px; text-align: center; border-radius: 12px; margin-bottom: 30px;">
-  <h1 style="font-size: 2.5em; margin: 0;">Merhaba, Ben Can Kurt</h1>
-  <p style="font-size: 1.2em; margin: 10px 0;">Proje & Yazılım Geliştirici</p>
-  <p style="font-size: 1em;">
-    @ <a href="https://github.com/ubden" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubden®</a>
+  <h1 style="font-size: 2.5em; margin: 0;">Can Kurt – Proje & Yazılım Geliştirici</h1>
+  <p style="font-size: 1.2em; margin: 10px 0;"> 
+    <a href="https://github.com/ubden" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubden®</a>  
     (Türkiye: Ubden A.Ş, ABD: Ubden LLC, Estonya: Ubden OU) | Organizasyon: <a href="https://github.com/ubdencom" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubdencom</a>
   </p>
 </div>
 
+<!-- Dynamic Typing Animation -->
 <div align="center" style="margin-bottom:30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=Yenilikçi+Çözümler;Yaratıcı+Kodlama;Modern+Tasarım" alt="Dinamik Yazı Animasyonu" style="max-width:100%;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=Yenilikçi+Çözümler;Yüksek+Standartlarda+Yazılım;Çağdaş+Tasarım" alt="Dinamik Yazı Animasyonu" style="max-width:100%;"/>
 </div>
 
+<!-- Navigation Bar -->
 <div align="center" style="margin-bottom: 30px;">
-  <a href="#hakkimda-tr" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Hakkımda</a>
+  <a href="#hakkimda-tr" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Hakkında</a>
   <a href="#tech-tr" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Teknolojiler</a>
   <a href="#projeler-tr" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">Projeler</a>
   <a href="#istatistikler-tr" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">İstatistikler</a>
   <a href="#iletisim-tr" style="margin: 0 15px; font-weight: bold; color: #F73030; text-decoration: none;">İletişim</a>
 </div>
 
-<!-- Hakkımda -->
+<!-- Hakkında Section -->
 <a id="hakkimda-tr"></a>
 <div style="background: #fff; border: 1px solid #eaeaea; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto 30px auto;">
-  <h2 style="color: #333;">Hakkımda</h2>
+  <h2 style="color: #333;">Hakkında</h2>
   <blockquote style="border-left: 4px solid #F73030; margin: 10px 0; padding-left: 15px; color: #666; font-style: italic;">
-    "Teknoloji ve tasarımın kesişim noktasında, geleceği bugünden şekillendiriyorum."
+    "Teknoloji ve tasarım entegrasyonu ile yenilikçi çözümler üretilmektedir."
   </blockquote>
   <p style="color: #555; line-height: 1.6;">
-    Ubden portföyüm <a href="https://github.com/ubden" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubden®</a>
-    (Türkiye: Ubden A.Ş, ABD: Ubden LLC, Estonya: Ubden OU) adresinde yer alıyor ve <a href="https://github.com/ubdencom" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubdencom</a> organizasyonunda yenilikçi projelere imza atan tutkulu bir geliştiriciyim.
+    Can Kurt, yenilikçi teknolojik çözümler geliştirme konusunda geniş tecrübeye sahip bir Proje & Yazılım Geliştiricisidir. Profesyonel portföyü, <a href="https://github.com/ubden" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubden®</a> (Türkiye: Ubden A.Ş, ABD: Ubden LLC, Estonya: Ubden OU) üzerinden sergilenmekte olup, <a href="https://github.com/ubdencom" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubdencom</a> organizasyonunda önemli katkılar sağlanmaktadır.
   </p>
   <details style="margin-top: 10px;">
-    <summary style="cursor: pointer; color: #F73030; font-weight: bold;">Detayları Gör</summary>
+    <summary style="cursor: pointer; color: #F73030; font-weight: bold;">Daha Fazla Bilgi</summary>
     <p style="color: #555; line-height: 1.6;">
-      Sürekli öğrenme ve gelişime inanıyorum. Tasarım odaklı yaklaşımım, kullanıcı deneyimini en üst düzeye çıkarmayı hedeflerken, modern teknolojilerle harmanlanmış kodlama ile fark yaratıyor.
+      Çalışmalarında çağdaş UI/UX standartlarını temel alan Can Kurt, her projede kesintisiz ve etkileyici kullanıcı deneyimi sunmayı ilke edinmiştir. Sürekli gelişim ve yüksek profesyonel standartlar, sunduğu çözümlerin temelini oluşturmaktadır.
     </p>
   </details>
 </div>
 
-<!-- Teknolojiler -->
+<!-- Teknolojiler Section -->
 <a id="tech-tr"></a>
 <div style="max-width: 800px; margin: 0 auto 30px auto; text-align: center;">
   <h2 style="color: #333;">Teknolojiler</h2>
@@ -179,30 +173,30 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <!-- Daha fazla rozet eklenebilir -->
+    <!-- Ek rozetler eklenebilir -->
   </div>
 </div>
 
-<!-- Projeler -->
+<!-- Projeler Section -->
 <a id="projeler-tr"></a>
 <div style="background: #fff; border: 1px solid #eaeaea; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto 30px auto;">
-  <h2 style="color: #333;">Projeler</h2>
+  <h2 style="color: #333;">Projeler & Katkılar</h2>
   <p style="color: #555; line-height: 1.6;">
-    GitHub üzerinde yer alan öne çıkan projelerimi ve katkılarımı inceleyebilirsiniz. Teknoloji ve tasarımı harmanlayan yenilikçi çözümler üretiyorum.
+    GitHub üzerinde öne çıkan projeler ve gerçekleştirilen katkılar incelenebilir. Geliştirilen çözümler, teknoloji ve tasarım entegrasyonunun yüksek standartlarda sunulması prensibine dayanmaktadır.
   </p>
   <div style="text-align:center; margin-top:20px;">
-    <a href="https://github.com/ubden" style="background:#F73030; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">Portföyümü Görüntüle</a>
+    <a href="https://github.com/ubden" style="background:#F73030; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">Portföyü İnceleyin</a>
   </div>
 </div>
 
-<!-- İstatistikler -->
+<!-- İstatistikler Section -->
 <a id="istatistikler-tr"></a>
 <div style="max-width: 800px; margin: 0 auto 30px auto; text-align: center;">
-  <h2 style="color: #333;">GitHub İstatistiklerim</h2>
+  <h2 style="color: #333;">GitHub İstatistikleri</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div>
       <a href="https://github.com/ubden">
-        <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight" alt="GitHub İstatistiklerim" style="max-width:100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight" alt="GitHub İstatistikleri" style="max-width:100%;"/>
       </a>
     </div>
     <div>
@@ -213,7 +207,7 @@
   </div>
 </div>
 
-<!-- İletişim & Bağlantılar -->
+<!-- İletişim & Bağlantılar Section -->
 <a id="iletisim-tr"></a>
 <div style="max-width: 800px; margin: 0 auto 30px auto; text-align: center;">
   <h2 style="color: #333;">İletişim & Bağlantılar</h2>
