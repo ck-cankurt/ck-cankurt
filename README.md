@@ -298,6 +298,7 @@
     <a href="mailto:info@ubden.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-info@ubden.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
     </a>
+     </br>
     <a href="https://twitter.com/ck_cankurt" target="_blank">
       <img src="https://img.shields.io/twitter/follow/ck_cankurt?style=for-the-badge" alt="Twitter"/>
     </a>
