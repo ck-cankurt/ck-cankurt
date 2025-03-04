@@ -22,14 +22,14 @@
   <a href="#contact-en" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Contact</a>
 </div>
 
-<!-- Animated Banner -->
+<!-- Animated Banner (React Native themed) -->
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Dynamic Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="React Native Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
 </div>
 
 # Hello, I'm Can Kurt 👋
 
-**Project & Software Developer @ [UBden](http://www.ubden.com) | Turkey**
+**Project & Software Developer @ [Ubden®](https://github.com/ubden) (Turkey: Ubden A.Ş, USA: Ubden LLC, Estonia: Ubden OU) | Organization: [Ubdencom](https://github.com/ubdencom)**
 
 ---
 
@@ -38,7 +38,7 @@
 
 > *"I shape the future through the intersection of technology and design."*
 
-I am a passionate developer working on innovative projects at UBden. I continuously strive for excellence by blending smart coding with creative solutions.  
+I am a passionate developer working on innovative projects. My main portfolio is hosted at [Ubden®](https://github.com/ubden) (Turkey: Ubden A.Ş, USA: Ubden LLC, Estonia: Ubden OU) and I contribute actively within the organization [Ubdencom](https://github.com/ubdencom).  
 <details>
   <summary style="cursor:pointer; font-weight:bold;">Read More</summary>
   <p style="margin-top:10px;">
@@ -69,13 +69,13 @@ I am a passionate developer working on innovative projects at UBden. I continuou
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/ck-cankurt">
-          <img src="https://github-readme-stats.vercel.app/api?username=ck-cankurt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        <a href="https://github.com/ubden">
+          <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ck-cankurt">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-cankurt&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <a href="https://github.com/ubden">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&theme=tokyonight" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -88,28 +88,34 @@ I am a passionate developer working on innovative projects at UBden. I continuou
 ## Contact & Social
 
 <div align="center">
-  <a href="http://www.ubden.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-UBden-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
+  <!-- Main Portfolio -->
+  <a href="https://github.com/ubden" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Ubden®-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
+  <!-- Organization -->
+  <a href="https://github.com/ubdencom" target="_blank">
+    <img src="https://img.shields.io/badge/Organization-Ubdencom-blue?style=for-the-badge&logo=github" alt="Organization" />
+  </a>
+  <!-- Email -->
   <a href="mailto:can@ubden.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-can@ubden.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/ck-cankurt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@ck_cankurt-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  <!-- Twitter -->
   <a href="https://twitter.com/ck_cankurt" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ck_cankurt?style=for-the-badge" alt="Twitter" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/can-kurt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-can--kurt-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  <!-- ORCID -->
   <a href="https://orcid.org/0009-0007-9163-6790" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0007--9163--6790-green?style=for-the-badge&logo=orcid" alt="ORCID" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=ck-cankurt&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ubden&style=flat-square" alt="Visitor Count" />
 </div>
 
 ---
@@ -130,14 +136,14 @@ I am a passionate developer working on innovative projects at UBden. I continuou
   <a href="#contact-tr" style="margin: 0 15px; text-decoration: none; font-weight: bold;">İletişim</a>
 </div>
 
-<!-- Animasyonlu Banner -->
+<!-- Animasyonlu Banner (React Native themed) -->
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Dinamik Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="React Native Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
 </div>
 
 # Merhaba, Ben Can Kurt 👋
 
-**Project & Software Developer @ [UBden](http://www.ubden.com) | Turkey**
+**Project & Software Developer @ [Ubden®](https://github.com/ubden) (Türkiye: Ubden A.Ş, ABD: Ubden LLC, Estonya: Ubden OU) | Organizasyon: [Ubdencom](https://github.com/ubdencom)**
 
 ---
 
@@ -146,7 +152,7 @@ I am a passionate developer working on innovative projects at UBden. I continuou
 
 > *"Teknoloji ve tasarımın kesişim noktasında, geleceği bugünden şekillendiriyorum."*
 
-UBden ailesinde yenilikçi projelere imza atan tutkulu bir geliştirici olarak, akıllı çözümler üretiyorum.  
+UBden portföyüm [Ubden®](https://github.com/ubden) (Türkiye: Ubden A.Ş, ABD: Ubden LLC, Estonya: Ubden OU) adresinde yer alıyor ve [Ubdencom](https://github.com/ubdencom) organizasyonunda yenilikçi projelere imza atan tutkulu bir geliştiriciyim.  
 <details>
   <summary style="cursor:pointer; font-weight:bold;">Detayları Gör</summary>
   <p style="margin-top:10px;">
@@ -177,13 +183,13 @@ UBden ailesinde yenilikçi projelere imza atan tutkulu bir geliştirici olarak, 
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/ck-cankurt">
-          <img src="https://github-readme-stats.vercel.app/api?username=ck-cankurt&show_icons=true&theme=tokyonight" alt="GitHub İstatistiklerim" />
+        <a href="https://github.com/ubden">
+          <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight" alt="GitHub İstatistiklerim" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ck-cankurt">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-cankurt&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+        <a href="https://github.com/ubden">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
         </a>
       </td>
     </tr>
@@ -196,26 +202,32 @@ UBden ailesinde yenilikçi projelere imza atan tutkulu bir geliştirici olarak, 
 ## İletişim & Bağlantılar
 
 <div align="center">
-  <a href="http://www.ubden.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-UBden-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
+  <!-- Ana Portföy -->
+  <a href="https://github.com/ubden" target="_blank">
+    <img src="https://img.shields.io/badge/Portföy-Ubden®-blue?style=for-the-badge&logo=github" alt="Portföy" />
   </a>
+  <!-- Organizasyon -->
+  <a href="https://github.com/ubdencom" target="_blank">
+    <img src="https://img.shields.io/badge/Organizasyon-Ubdencom-blue?style=for-the-badge&logo=github" alt="Organizasyon" />
+  </a>
+  <!-- Email -->
   <a href="mailto:can@ubden.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-can@ubden.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/ck-cankurt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@ck_cankurt-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  <!-- Twitter -->
   <a href="https://twitter.com/ck_cankurt" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ck_cankurt?style=for-the-badge" alt="Twitter" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/can-kurt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-can--kurt-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  <!-- ORCID -->
   <a href="https://orcid.org/0009-0007-9163-6790" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0007--9163--6790-green?style=for-the-badge&logo=orcid" alt="ORCID" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=ck-cankurt&style=flat-square" alt="Ziyaretçi Sayısı" />
+  <img src="https://komarev.com/ghpvc/?username=ubden&style=flat-square" alt="Ziyaretçi Sayısı" />
 </div>
