@@ -24,7 +24,7 @@
 
 <!-- Animated Banner (React Native themed) -->
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="React Native Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
+  <img src="https://c.tenor.com/_sRq7f0tQLEAAAAC/tenor.gif" alt="React Native Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
 </div>
 
 # Hello, I'm Can Kurt 👋
