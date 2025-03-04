@@ -80,7 +80,6 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React Native"/>
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <!-- Additional badges can be added as needed -->
@@ -117,7 +116,7 @@
     <div>
       <a href="https://github.com/ubden">
         <!-- Using herokuapp URL for Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
+        <img src="github-readme-streak-stats.herokuapp.com/?user=ubden" alt="Streak Stats" style="max-width:100%;"/>
       </a>
     </div>
   </div>
