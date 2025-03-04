@@ -114,12 +114,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width:100%;"/>
       </a>
     </div>
-    <div>
-      <a href="https://github.com/ubden">
-        <!-- Using herokuapp URL for Streak Stats -->
-        <img src="github-readme-streak-stats.herokuapp.com/?user=ubden" alt="Streak Stats" style="max-width:100%;"/>
-      </a>
-    </div>
+     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ubden's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ubden&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </div>
 </div>
 
@@ -262,12 +257,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" style="max-width:100%;"/>
       </a>
     </div>
-    <div>
-      <a href="https://github.com/ubden">
-        <!-- Updated Streak Stats URL via Heroku -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
-      </a>
-    </div>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ubden's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ubden&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </div>
 </div>
 
