@@ -9,6 +9,7 @@
 </div>
 
 ---
+![image](https://github.com/user-attachments/assets/f6283900-a9b6-41ba-aafd-a4a103371ab8)
 
 <!-- =================== ENGLISH SECTION =================== -->
 <a id="english"></a>
@@ -155,6 +156,7 @@
 </div>
 
 ---
+![image](https://github.com/user-attachments/assets/371893ba-9c13-4de0-993f-64926e79a1a9)
 
 <!-- =================== TURKISH SECTION =================== -->
 <a id="turkish"></a>
