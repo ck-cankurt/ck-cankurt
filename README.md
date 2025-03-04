@@ -122,6 +122,9 @@
   </div>
 </div>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ubden&theme=dark)](https://git.io/streak-stats)
+
 <!-- Contact & Social Section -->
 <a id="contact-en"></a>
 <div style="max-width: 800px; margin: 0 auto 30px; text-align: center;">
