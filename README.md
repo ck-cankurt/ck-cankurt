@@ -155,7 +155,7 @@
       <img src="https://img.shields.io/twitter/follow/ck_cankurt?style=for-the-badge" alt="Twitter"/>
     </a>
     <a href="https://www.linkedin.com/in/can-kurt" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Ubden-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-cankurt-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="https://orcid.org/0009-0007-9163-6790" target="_blank">
       <img src="https://img.shields.io/badge/ORCID-0009--0007--9163--6790-green?style=for-the-badge&logo=orcid" alt="ORCID"/>
