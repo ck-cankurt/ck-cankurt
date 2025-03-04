@@ -9,7 +9,9 @@
 </div>
 
 ---
-![image](https://github.com/user-attachments/assets/f6283900-a9b6-41ba-aafd-a4a103371ab8)
+![GithubGif](https://github.com/user-attachments/assets/6183c90c-51e3-44f8-8b2d-5b3bb46a3ea3)
+
+
 
 <!-- =================== ENGLISH SECTION =================== -->
 <a id="english"></a>
@@ -87,6 +89,30 @@
   </div>
 </div>
 
+![image](https://github.com/user-attachments/assets/e0101f10-b541-48eb-889c-48413624700d)
+![image](https://github.com/user-attachments/assets/0fc090db-fee9-401b-bdb7-5baf2b2a1dd5)
+![image](https://github.com/user-attachments/assets/9a241d41-7753-4d9a-ac69-695416681a46)
+![image](https://github.com/user-attachments/assets/f62e2aeb-1fcd-4a99-8ec6-373ff0635cc0)
+![image](https://github.com/user-attachments/assets/149400c5-ce24-4278-a923-d32e91df430d)
+![image](https://github.com/user-attachments/assets/e0f79551-eb3a-42a1-bcdf-85e3926911fd)
+![image](https://github.com/user-attachments/assets/42deabf7-db72-4ae4-b49f-34397a0e419c)
+![image](https://github.com/user-attachments/assets/f9e901aa-6777-4e28-b78d-015d26c31a65)
+![image](https://github.com/user-attachments/assets/4bf25be0-30d1-41bc-ba18-3974763e9997)
+![image](https://github.com/user-attachments/assets/2e6f315f-bd85-4e60-bf9e-c55633237012)
+![image](https://github.com/user-attachments/assets/c2192e56-d604-4b6f-8f79-2b9189255c50)
+![image](https://github.com/user-attachments/assets/7d8d93cb-228e-45c4-a3bb-c02553dd3d1f)
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Projects Section -->
 <a id="projects-en"></a>
 <div style="background: #fff; border: 1px solid #eaeaea; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 10px; padding: 25px; max-width: 800px; margin: 0 auto 30px;">
@@ -106,20 +132,14 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 15px;">
     <div>
       <a href="https://github.com/ubden">
-        <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" style="max-width:100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" alt="GitHub Stats" style="max-width:100%;"/>
       </a>
-    </div>
-    <div>
       <a href="https://github.com/ubden">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width:100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width:100%;"/>
       </a>
     </div>
-     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ubden's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ubden&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </div>
 </div>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ubden&theme=dark)](https://git.io/streak-stats)
 
 <!-- Contact & Social Section -->
 <a id="contact-en"></a>
@@ -151,7 +171,7 @@
 </div>
 
 ---
-![image](https://github.com/user-attachments/assets/371893ba-9c13-4de0-993f-64926e79a1a9)
+![GithubGif](https://github.com/user-attachments/assets/6183c90c-51e3-44f8-8b2d-5b3bb46a3ea3)
 
 <!-- =================== TURKISH SECTION =================== -->
 <a id="turkish"></a>
@@ -223,12 +243,25 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React Native"/>
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <!-- Ek rozetler eklenebilir -->
   </div>
 </div>
+
+
+![image](https://github.com/user-attachments/assets/e0101f10-b541-48eb-889c-48413624700d)
+![image](https://github.com/user-attachments/assets/0fc090db-fee9-401b-bdb7-5baf2b2a1dd5)
+![image](https://github.com/user-attachments/assets/9a241d41-7753-4d9a-ac69-695416681a46)
+![image](https://github.com/user-attachments/assets/f62e2aeb-1fcd-4a99-8ec6-373ff0635cc0)
+![image](https://github.com/user-attachments/assets/149400c5-ce24-4278-a923-d32e91df430d)
+![image](https://github.com/user-attachments/assets/e0f79551-eb3a-42a1-bcdf-85e3926911fd)
+![image](https://github.com/user-attachments/assets/42deabf7-db72-4ae4-b49f-34397a0e419c)
+![image](https://github.com/user-attachments/assets/f9e901aa-6777-4e28-b78d-015d26c31a65)
+![image](https://github.com/user-attachments/assets/4bf25be0-30d1-41bc-ba18-3974763e9997)
+![image](https://github.com/user-attachments/assets/2e6f315f-bd85-4e60-bf9e-c55633237012)
+![image](https://github.com/user-attachments/assets/c2192e56-d604-4b6f-8f79-2b9189255c50)
+![image](https://github.com/user-attachments/assets/7d8d93cb-228e-45c4-a3bb-c02553dd3d1f)
 
 <!-- Projeler Section -->
 <a id="projeler-tr"></a>
@@ -247,17 +280,14 @@
 <div style="max-width: 800px; margin: 0 auto 30px; text-align: center;">
   <h2 style="color: #333;">GitHub İstatistikleri</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 15px;">
-    <div>
+   <div>
       <a href="https://github.com/ubden">
-        <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub İstatistikleri" style="max-width:100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ubden&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" alt="GitHub Stats" style="max-width:100%;"/>
+      </a>
+      <a href="https://github.com/ubden">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width:100%;"/>
       </a>
     </div>
-    <div>
-      <a href="https://github.com/ubden">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubden&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" style="max-width:100%;"/>
-      </a>
-    </div>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ubden's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ubden&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </div>
 </div>
 
