@@ -96,8 +96,6 @@
 ![image](https://github.com/user-attachments/assets/42deabf7-db72-4ae4-b49f-34397a0e419c)
 ![image](https://github.com/user-attachments/assets/f9e901aa-6777-4e28-b78d-015d26c31a65)
 ![image](https://github.com/user-attachments/assets/4bf25be0-30d1-41bc-ba18-3974763e9997)
-![image](https://github.com/user-attachments/assets/2e6f315f-bd85-4e60-bf9e-c55633237012)
-![image](https://github.com/user-attachments/assets/c2192e56-d604-4b6f-8f79-2b9189255c50)
 ![image](https://github.com/user-attachments/assets/7d8d93cb-228e-45c4-a3bb-c02553dd3d1f)
 
 
@@ -229,24 +227,21 @@
   </details>
 </div>
 
-<!-- Teknolojiler Section -->
-<a id="tech-tr"></a>
+<!-- Technologies Section -->
+<a id="tech-en"></a>
 <div style="max-width: 800px; margin: 0 auto 30px; text-align: center;">
-  <h2 style="color: #333;">Teknolojiler</h2>
+  <h2 style="color: #333;">Technologies</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React Native"/>
     <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <!-- Ek rozetler eklenebilir -->
+    <!-- Additional badges can be added as needed -->
   </div>
 </div>
-
 
 ![image](https://github.com/user-attachments/assets/e0101f10-b541-48eb-889c-48413624700d)
 ![image](https://github.com/user-attachments/assets/0fc090db-fee9-401b-bdb7-5baf2b2a1dd5)
@@ -257,9 +252,8 @@
 ![image](https://github.com/user-attachments/assets/42deabf7-db72-4ae4-b49f-34397a0e419c)
 ![image](https://github.com/user-attachments/assets/f9e901aa-6777-4e28-b78d-015d26c31a65)
 ![image](https://github.com/user-attachments/assets/4bf25be0-30d1-41bc-ba18-3974763e9997)
-![image](https://github.com/user-attachments/assets/2e6f315f-bd85-4e60-bf9e-c55633237012)
-![image](https://github.com/user-attachments/assets/c2192e56-d604-4b6f-8f79-2b9189255c50)
 ![image](https://github.com/user-attachments/assets/7d8d93cb-228e-45c4-a3bb-c02553dd3d1f)
+
 
 <!-- Projeler Section -->
 <a id="projeler-tr"></a>
