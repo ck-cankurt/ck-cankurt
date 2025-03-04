@@ -16,7 +16,7 @@
 <div style="background: linear-gradient(135deg, #F73030, #FF8C00); color: #fff; padding: 40px 20px; text-align: center; border-radius: 12px; margin-bottom: 30px;">
   <h1 style="font-size: 2.5em; margin: 0;">Can KURT – Project & Software Developer</h1>
   <p style="font-size: 1.2em; margin: 10px 0;">
-    At <a href="https://github.com/ubden" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubden®</a> 
+    At <a href="https://github.com/ubden" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubden®</a>  
     (Turkey: Ubden A.Ş, USA: Ubden LLC, Estonia: Ubden OU) | Organization: <a href="https://github.com/ubdencom" style="color: #fff; text-decoration: underline; font-weight: bold;">Ubdencom</a>
   </p>
 </div>
@@ -28,19 +28,24 @@
 
 <!-- Full-width Transparent Navigation Bar with Hover Effect -->
 <div style="width: 100%; display: flex; justify-content: center; gap: 10px; margin-bottom: 30px;">
-  <a href="#about-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#about-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     About
   </a>
-  <a href="#tech-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#tech-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     Technologies
   </a>
-  <a href="#projects-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#projects-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     Projects
   </a>
-  <a href="#stats-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#stats-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     Stats
   </a>
-  <a href="#contact-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#contact-en" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     Contact
   </a>
 </div>
@@ -53,7 +58,7 @@
     "Driving innovation through the convergence of technology and design."
   </blockquote>
   <p style="color: #555; line-height: 1.6;">
-    We are a team of experienced professionals committed to delivering comprehensive and innovative software solutions. Our expertise encompasses Full Stack project and system development as well as cross-platform application development. Our portfolio is presented at <a href="https://github.com/ubden" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubden®</a> and our work is significantly contributed within the <a href="https://github.com/ubdencom" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubdencom</a> organization.
+    We are a dedicated team of professionals committed to delivering comprehensive and innovative software solutions. Our expertise encompasses Full Stack project and system development as well as cross-platform application development. Our portfolio is presented at <a href="https://github.com/ubden" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubden®</a> and our work is significantly contributed within the <a href="https://github.com/ubdencom" style="color: #F73030; font-weight: bold; text-decoration: none;">Ubdencom</a> organization.
   </p>
   <details style="margin-top: 10px;">
     <summary style="cursor: pointer; color: #F73030; font-weight: bold;">Learn More</summary>
@@ -75,6 +80,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React Native"/>
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <!-- Additional badges can be added as needed -->
@@ -86,7 +92,7 @@
 <div style="background: #fff; border: 1px solid #eaeaea; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 10px; padding: 25px; max-width: 800px; margin: 0 auto 30px;">
   <h2 style="color: #333;">Projects & Contributions</h2>
   <p style="color: #555; line-height: 1.6;">
-    Explore our featured projects and contributions that demonstrate our commitment to excellence in software development and innovative design. Our projects include comprehensive ERP/MRP/CRM systems, IoT and M2M solutions, and scalable SaaS platforms, alongside cutting-edge Full Stack and cross-platform applications.
+    Explore our featured projects and contributions that demonstrate our commitment to excellence in software development and innovative design. Our projects include comprehensive ERP/MRP/CRM systems, IoT/M2M solutions, SaaS applications, and secure network infrastructures. We also deliver cutting-edge Full Stack and cross-platform applications.
   </p>
   <div style="text-align: center; margin-top: 20px;">
     <a href="https://github.com/ubden" style="background:#F73030; color:#fff; padding:12px 25px; border-radius:5px; text-decoration:none; font-weight:bold;">View Our Portfolio</a>
@@ -110,7 +116,8 @@
     </div>
     <div>
       <a href="https://github.com/ubden">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
+        <!-- Updated Streak Stats URL via Vercel -->
+        <img src="https://github-readme-streak-stats.vercel.app/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
       </a>
     </div>
   </div>
@@ -165,19 +172,24 @@
 
 <!-- Full-width Transparent Navigation Bar with Hover Effect -->
 <div style="width: 100%; display: flex; justify-content: center; gap: 10px; margin-bottom: 30px;">
-  <a href="#hakkimda-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#hakkimda-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     Hakkında
   </a>
-  <a href="#tech-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#tech-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     Teknolojiler
   </a>
-  <a href="#projeler-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#projeler-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     Projeler
   </a>
-  <a href="#istatistikler-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#istatistikler-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     İstatistikler
   </a>
-  <a href="#iletisim-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;">
+  <a href="#iletisim-tr" style="background: rgba(255,255,255,0.2); padding: 12px 25px; border-radius: 5px; text-decoration: none; color: #F73030; font-weight: bold; transition: background 0.3s;"
+     onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'">
     İletişim
   </a>
 </div>
@@ -212,6 +224,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React Native"/>
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <!-- Ek rozetler eklenebilir -->
@@ -247,7 +260,8 @@
     </div>
     <div>
       <a href="https://github.com/ubden">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
+        <!-- Updated Streak Stats URL via Vercel -->
+        <img src="https://github-readme-streak-stats.vercel.app/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
       </a>
     </div>
   </div>
