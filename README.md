@@ -23,7 +23,7 @@
 
 <!-- Dynamic Typing Animation -->
 <div align="center" style="margin-bottom:30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=ERP%2C+MRP%2C+CRM+Solutions;IoT+%26+M2M+Innovations;SaaS+%26+Cross-Platform+Development;Full+Stack+%2B+Agile+Project+Management;RESTful+%26+WebSocket+Integration;SD–WAN+%2B+Secure+Network+Design" alt="Dynamic Typing Animation" style="max-width:100%;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=ERP%2C+MRP%2C+CRM+Solutions;IoT+%26+M2M+Innovations;SaaS+%26+Cross-Platform+Development;Full+Stack+%2B+Agile+Project+Management;RESTful+%26+WebSocket+Integration;SD%E2%80%93WAN+%2B+Secure+Network+Design" alt="Dynamic Typing Animation" style="max-width:100%;"/>
 </div>
 
 <!-- Full-width Transparent Navigation Bar with Hover Effect -->
@@ -116,8 +116,8 @@
     </div>
     <div>
       <a href="https://github.com/ubden">
-        <!-- Updated Streak Stats URL via Vercel -->
-        <img src="https://github-readme-streak-stats.vercel.app/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
+        <!-- Using herokuapp URL for Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
       </a>
     </div>
   </div>
@@ -167,7 +167,7 @@
 
 <!-- Dynamic Typing Animation -->
 <div align="center" style="margin-bottom:30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=ERP%2C+MRP%2C+CRM+%26+Kurumsal+Yaz%C4%B1l%C4%B1m;IoT+%26+M2M+Yenilikleri;SaaS+%26+Cross-Platform+Uygulamalar;Full+Stack+%2B+Agile+%26+Scrum+Y%C3%B6netimi;RESTful+%26+WebSocket+Entegrasyonu;SD–WAN+%2B+G%C3%BCvenli+A%C4%9F+Mimarisinde" alt="Dinamik Yazı Animasyonu" style="max-width:100%;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=FFFFFF&center=true&width=800&lines=ERP%2C+MRP%2C+CRM+%26+Kurumsal+Yaz%C4%B1l%C4%B1m;IoT+%26+M2M+Yenilikleri;SaaS+%26+Cross-Platform+Uygulamalar;Full+Stack+%2B+Agile+%26+Scrum+Y%C3%B6netimi;RESTful+%26+WebSocket+Entegrasyonu;SD%E2%80%93WAN+%2B+G%C3%BCvenli+A%C4%9F+Mimarisinde" alt="Dinamik Yazı Animasyonu" style="max-width:100%;"/>
 </div>
 
 <!-- Full-width Transparent Navigation Bar with Hover Effect -->
@@ -260,8 +260,8 @@
     </div>
     <div>
       <a href="https://github.com/ubden">
-        <!-- Updated Streak Stats URL via Vercel -->
-        <img src="https://github-readme-streak-stats.vercel.app/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
+        <!-- Updated Streak Stats URL via Heroku -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubden&theme=tokyonight" alt="Streak Stats" style="max-width:100%;"/>
       </a>
     </div>
   </div>
