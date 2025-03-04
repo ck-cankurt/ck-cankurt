@@ -22,11 +22,6 @@
   <a href="#contact-en" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Contact</a>
 </div>
 
-<!-- Animated Banner (React Native themed) -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://c.tenor.com/_sRq7f0tQLEAAAAC/tenor.gif" alt="React Native Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
-</div>
-
 # Hello, I'm Can Kurt 👋
 
 **Project & Software Developer @ [Ubden®](https://github.com/ubden) (Turkey: Ubden A.Ş, USA: Ubden LLC, Estonia: Ubden OU) | Organization: [Ubdencom](https://github.com/ubdencom)**
@@ -134,11 +129,6 @@ I am a passionate developer working on innovative projects. My main portfolio is
   <a href="#tech-tr" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Teknolojiler</a>
   <a href="#stats-tr" style="margin: 0 15px; text-decoration: none; font-weight: bold;">İstatistikler</a>
   <a href="#contact-tr" style="margin: 0 15px; text-decoration: none; font-weight: bold;">İletişim</a>
-</div>
-
-<!-- Animasyonlu Banner (React Native themed) -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="React Native Banner" style="width:100%; max-width:800px; border-radius: 10px;"/>
 </div>
 
 # Merhaba, Ben Can Kurt 👋
